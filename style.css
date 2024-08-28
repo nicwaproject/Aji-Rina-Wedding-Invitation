@@ -513,7 +513,7 @@ nav ul li a:hover {
     background-position: center;
     text-align: center;
     color: black; /* Text color */
-    height: auto; /* Set height to 100% of viewport height */
+    height: 100vh; /* Set height to 100% of viewport height */
     display: flex;
     flex-direction: column;
     align-items: center;
